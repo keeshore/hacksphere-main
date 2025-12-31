@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { ArrowRight, Download } from 'lucide-react';
-import brochure from '../assets/brochure.pdf';
+import brochure from '../assets/eventbrochure.pdf';
 import CountdownClock from '@/components/CountdownClock';
 
 const CTASection = () => {
