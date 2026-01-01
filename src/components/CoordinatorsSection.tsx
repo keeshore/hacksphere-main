@@ -28,7 +28,7 @@ const CoordinatorsSection = () => {
       email: "keerthivarshinir24bcc125@skasc.ac.in",
     },
     {
-      name: "Rahul K",
+      name: "Raghul K",
       role: "Review commitee",
       image: raghulImage,
       phone: 7548831130,
